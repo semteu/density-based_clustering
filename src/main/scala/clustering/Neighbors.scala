@@ -1,4 +1,4 @@
-package org.local.clustering
+package clustering
 
 import org.apache.spark.ml.linalg.{DenseVector, Vectors}
 import org.apache.spark.sql.functions._
